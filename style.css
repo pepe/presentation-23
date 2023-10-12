@@ -1,10 +1,9 @@
-
 body {
+  background-color: darkseagreen;
   overflow: hidden;
   height: 100vh;
   width: 100vw;
   font-family: Inter;
-
 }
 
 #restart {
@@ -23,7 +22,6 @@ body {
   display: none;
 }
 
-
 /* Element | https://shrouded-abiding-haze.glitch.me/ */
 
 #previousSlide {
@@ -33,8 +31,8 @@ body {
 /* Inline #3 | https://shrouded-abiding-haze.glitch.me/ */
 
 .icon {
-  height: 24px;
-  width: 24px;
+  height: 50px;
+  width: 50px;
   font-size: 0;
   background: none;
   border: none;
@@ -47,7 +45,6 @@ body {
 .icon.next {
   background-image: url("/next.svg");
 }
-
 
 /* Inline #3 | https://shrouded-abiding-haze.glitch.me/ */
 
